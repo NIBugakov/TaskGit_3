@@ -20,9 +20,9 @@
         <PropertyValues>
           <PropertyValue z:Id="i5">
             <PropertyName>Text</PropertyName>
-            <_dataType>Value</_dataType>
-            <_expression i:nil="true" />
-            <_value xmlns:d7p1="http://www.w3.org/2001/XMLSchema" i:type="d7p1:string"></_value>
+            <_dataType>Expression</_dataType>
+            <_expression>"some"</_expression>
+            <_value i:nil="true" />
             <_xpathSettings xmlns:d7p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
           </PropertyValue>
           <PropertyValue z:Id="i6">
